@@ -53,3 +53,8 @@ li {
 .footer {
   background-color: #eeeeee;
 }
+
+.content {
+  align-self: center;
+  justify-self: center;
+}
