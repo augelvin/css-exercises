@@ -12,12 +12,14 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 8px;
 }
 
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
   display: flex;
+  padding: 0 1em;
 }
 
 a {
@@ -27,4 +29,5 @@ a {
   /* this removes the line under the links */
   text-decoration: none;
   flex: auto;
+  margin: 8px;
 }
