@@ -31,6 +31,7 @@ input {
 ul {
   list-style-type: none;
   padding: 0;
+  display: flex;
 }
 
 a {
@@ -41,3 +42,4 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
