@@ -20,8 +20,9 @@ img {
 
 .card {
   display: flex;
-  flex-direction: column;
+  flex-flow: column wrap;
   align-items: center;
+  width: 200px;
 }
 
 .text {
