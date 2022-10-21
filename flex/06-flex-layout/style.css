@@ -45,3 +45,7 @@ a {
   display: flex;
   justify-content: space-between;
 }
+
+li {
+  margin: 0 1em;
+}
