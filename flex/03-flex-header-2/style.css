@@ -56,3 +56,10 @@ ul {
   display: flex;
   align-items: center;
 }
+
+.logo,
+a,
+.notification,
+.profile-image {
+  margin: 8px;
+}
