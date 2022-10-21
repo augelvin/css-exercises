@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 8px;
+  padding: 8px 0;
 }
 
 .profile-image {
@@ -50,6 +50,7 @@ a {
 ul {
   list-style-type: none;
   display: flex;
+  padding: 0;
 }
 
 .left,
@@ -62,5 +63,5 @@ ul {
 a,
 .notification,
 .profile-image {
-  margin: 0 16px;
+  margin: 0 8px;
 }
